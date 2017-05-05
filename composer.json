@@ -14,6 +14,6 @@
     }],
     "target-dir" : "Gfiguero/PageBundle",
     "extra": {
-        "branch-alias": "master"
+        "branch-alias": "dev-master"
     }
 }
