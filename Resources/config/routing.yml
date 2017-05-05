@@ -1,0 +1,3 @@
+gfiguero_page_homepage:
+    path:     /
+    defaults: { _controller: GfigueroPageBundle:Default:index }

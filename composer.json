@@ -1,0 +1,30 @@
+{
+    "name" : "gfiguero/pagebundle",
+    "description" : "A simple page bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Garri Figueroa",
+        "email" : "gfiguero@gmail.com"
+    }],
+    "keywords" : [
+        "page bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Gfiguero\\PageBundle" : ""
+        }
+    },
+    "target-dir" : "Gfiguero/PageBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "dev"
+        }
+    }
+}
